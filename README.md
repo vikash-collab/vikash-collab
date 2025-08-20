@@ -3,7 +3,7 @@
 💻 **Java Full Stack Developer | CSE Student | Tech Enthusiast**  
 
 I’m passionate about building scalable web applications, exploring modern technologies, and contributing to real-world projects.  
-Currently pursuing my **B.E. in Computer Science Engineering (Final Year)**, I enjoy learning and working with **Java, Spring Boot, React, MERN stack, and Machine Learning basics**.  
+Currently pursuing my **B.E. in Computer Science Engineering (Final Year)**, I enjoy learning and working with **Java, Spring Boot, React**.  
 
 ---
 
