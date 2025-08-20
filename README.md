@@ -10,10 +10,10 @@ Currently pursuing my **B.E. in Computer Science Engineering (3rd Year)**, I enj
 ## 🚀 Tech Stack  
 
 ### 🌐 Frontend  
-- React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Bootstrap  
+- React.js | JavaScript (ES6+) | HTML5 | CSS3 |  
 
 ### ⚙️ Backend  
-- Java | Spring Boot | Servlets & JSP | Node.js | Express.js  
+- Java | Spring Boot | Servlets & JSP 
 
 ### 🗄️ Database  
 - MySQL | PostgreSQL | MongoDB  
@@ -41,7 +41,7 @@ Currently pursuing my **B.E. in Computer Science Engineering (3rd Year)**, I enj
 ## 🌱 Currently Learning  
 - Advanced Spring Boot features  
 - System Design Basics  
-- Machine Learning for real-world applications  
+- Machine Learning for real-world applications 
 
 ---
 
