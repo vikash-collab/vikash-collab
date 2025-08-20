@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikash Singh  
 
-<!--
-**vikash-collab/vikash-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Full Stack Developer | CSE Student | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications, exploring modern technologies, and contributing to real-world projects.  
+Currently pursuing my **B.E. in Computer Science Engineering (3rd Year)**, I enjoy learning and working with **Java, Spring Boot, React, MERN stack, and Machine Learning basics**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+
+### 🌐 Frontend  
+- React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Bootstrap  
+
+### ⚙️ Backend  
+- Java | Spring Boot | Servlets & JSP | Node.js | Express.js  
+
+### 🗄️ Database  
+- MySQL | PostgreSQL | MongoDB  
+
+### ☁️ Tools & Platforms  
+- Git & GitHub | Maven | Postman | Docker (basics)  
+
+---
+
+## 📌 Projects  
+
+🔹 **E-Commerce Backend API** – RESTful API using Spring Boot with JWT Authentication & Role-based Access  
+🔹 **Blogging Platform with Admin Dashboard** – Full stack app with React + Spring Boot, role-based access, notifications, and analytics  
+🔹 **Ease of Living Index Calculator** – MERN + D3.js project for analyzing real-time quality-of-life datasets  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashsingh&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsingh&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Spring Boot features  
+- System Design Basics  
+- Machine Learning for real-world applications  
+
+---
+
+## 🤝 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 vikashsingh@example.com  
+- 🌍 [Portfolio Website](https://your-portfolio-link.com)  
+
+---
+
+⭐️ *“Code, Learn, Build, Repeat!”*  
